@@ -9,4 +9,8 @@ public class UserProfileTest {
 		System.out.println("User Profile Testing");
 	}
 
+	public void checkUserProfile() {
+		System.out.println("check Profile Testing - Lina");
+	}
+
 }
