@@ -8,5 +8,9 @@ public class UserProfileTest {
 	public void verifyUserProfile() {
 		System.out.println("User Profile Testing");
 	}
+	
+	public void TakeUserProfile() {
+		System.out.println("User Profile Testing - Sarah");
+	}
 
 }
